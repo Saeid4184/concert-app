@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تردد کارخانه بتن</string>
+    <string name="app_subtitle">مدیریت ورود و خروج</string>
+
+    <string name="category_personnel">پرسنل</string>
+    <string name="category_machinery">ماشین‌آلات</string>
+    <string name="category_visitor">مراجعین و مهمانان</string>
+    <string name="category_driver">رانندگان</string>
+
+    <string name="inside_count_format">%1$d نفر / مورد داخل کارخانه</string>
+
+    <string name="empty_list_personnel">هنوز کسی ثبت نشده است.\nبرای افزودن، دکمه + را بزنید.</string>
+    <string name="empty_list_visitor">در حال حاضر مهمانی داخل کارخانه نیست.</string>
+
+    <string name="add_new">افزودن جدید</string>
+    <string name="add_new_person_title">ثبت مورد جدید</string>
+    <string name="hint_name">نام</string>
+    <string name="hint_extra_info">اطلاعات تکمیلی (اختیاری)</string>
+    <string name="hint_extra_info_machinery">شماره پلاک / نوع ماشین</string>
+    <string name="hint_extra_info_driver">شماره تماس / شماره پلاک</string>
+
+    <string name="new_visitor_checkin_title">ثبت ورود مهمان جدید</string>
+    <string name="hint_visitor_name">نام مهمان</string>
+    <string name="hint_visitor_department">واحد یا بخش مورد مراجعه</string>
+
+    <string name="btn_save">ثبت</string>
+    <string name="btn_cancel">انصراف</string>
+    <string name="btn_checkin">ورود</string>
+    <string name="btn_checkout">خروج</string>
+    <string name="btn_confirm_checkout">تایید خروج</string>
+
+    <string name="status_inside">داخل کارخانه</string>
+    <string name="status_outside">خارج از کارخانه</string>
+
+    <string name="person_added_success">با موفقیت ثبت شد</string>
+    <string name="checkin_success">ورود با موفقیت ثبت شد</string>
+    <string name="checkout_success">خروج با موفقیت ثبت شد</string>
+    <string name="error_generic">خطایی رخ داد</string>
+    <string name="error_name_empty">وارد کردن نام الزامی است</string>
+    <string name="error_department_empty">وارد کردن واحد مورد مراجعه الزامی است</string>
+    <string name="error_duplicate_name">این نام قبلاً ثبت شده است</string>
+
+    <string name="confirm_checkout_message">آیا از ثبت خروج «%1$s» اطمینان دارید؟</string>
+    <string name="dialog_action_title_format">%1$s</string>
+    <string name="last_status_format">وضعیت: %1$s</string>
+</resources>
